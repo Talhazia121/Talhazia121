@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Talhazia121
+- 👀 I’m interested in ROR development...
+- 🌱 I’m currently learning Shopify Theme development and ROR Framework...
+- 📫 You can contact me here, email: Talhazia49@gmail.com...
+
+<!---
+Talhazia121/Talhazia121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
